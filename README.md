@@ -1,6 +1,13 @@
 # K-SOLVER
 A similar Ksolver-x program for all devices mainly for MOBILEs  speed is Good in my MOBs... 
 
+# Special Thanks to 
+
+https://github.com/pianist-coder/KSOLVER-X
+
+for Creating a Main version for us thanks sir... 
+
+
 Find PrivateKey of corresponding Pubkey using random xpoint search
 
 KSOLVER X is a tool for solving private keys in the Bitcoin ecosystem. It is designed to efficiently search for private keys that correspond to a given public key.
