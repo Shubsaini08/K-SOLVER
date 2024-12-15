@@ -108,33 +108,30 @@ KSOLVER X uses a combination of techniques to efficiently search for private key
 2. **Parallel Processing**: The script utilizes multiple CPU cores to search for private keys in parallel, significantly speeding up the computation.
 3. **Incremental and Decremental Search**: The script performs both incremental and decremental searches around the base private key, increasing the chances of finding the correct key.
 4. **Progress Reporting**: The script provides detailed progress information, including the estimated probability of finding the key, the current search speed, and the elapsed time.
-5. 
+
+
+# DOOR'S are always open for DONATIONS 
+ thank you !.....
+ 
 # HOPE IT WILL HELP
-[FOR ANY QUESTIONS TEXT US AT
- @------------------------------------------------------------------------@
+[FOR ANY QUESTIONS TEXT US AT]
 
-> CLOUDHUNTERS :: https://t.me/cloud_hunter_sa
- @----------------------------------------------------------------------------@
-
+> CLOUDHUNTERS :: https://t.me/code_Crusaders0
+> 
 > KEYFOUND ::  https://t.me/privatekeydirectorygroup
- @----------------------------------------------------------------------------@
-
+> 
 > ALSO FOR TRADING WITH BOTS :: https://t.me/+ggaun3gLB900MGY0
- @----------------------------------------------------------------------------@
-
+> 
 > GITHUB LINK FOR MORRE :: https://github.com/Shubsaini08
- @------------------------------------------------------------------------@]
-
+> 
 FOR DONATIONS : 
 
 # CONTACT :: 
-> US THROUGH DRIECT MESSAGES OR BY MAILING US ::   08SHUBHAM2003@GMAIL.COM
- @------------------------------------------------------------------------@
-
-> OR DIRECT MESSAGE ON TELE : @Shub_saini08 
- @------------------------------------------------------------------------@
-
-THANK YOU FOR READING THIS DOCUMENTATION
+> US THROUGH DRIECT MESSAGES OR BY MAILING US ::   keyfoundhunt4ever@gmail.com
+> 
+> OR DIRECT MESSAGE ON TELE : @Shub_saini08
+>
+> THANK YOU FOR READING THIS DOCUMENTATION
 
 HAVE A WONDERFULL DAY STAY BLESSED HOPE YOU WILL HIT SOME(MONEY) SOON......
 BYE !!
